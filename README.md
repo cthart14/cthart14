@@ -66,8 +66,8 @@ My approach to programming combines technical excellence with biblical principle
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-christopher_hart14@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopher_hart14@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chrstopher-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-hart4)
-[![YouTube](https://img.shields.io/badge/YouTube-YourChannel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/@c.threepo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chris-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christopher-hart4)
+[![YouTube](https://img.shields.io/badge/YouTube-C.threepo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@c.threepo)
   
 </div>
 
