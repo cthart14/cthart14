@@ -16,7 +16,7 @@
 
 I'm passionate about crafting elegant code solutions while integrating biblical wisdom into my programming philosophy. My journey blends technical expertise with spiritual insights, creating a unique approach to software development.
 
-- 🔭 Currently working on: _Devotional Blog_
+- 🔭 Currently working on: _"Jesus Freaks"_
 - 🌱 Learning: _Game Development, React_
 - 👨‍💻 Software Engineer specializing in _C#, .NET_
 - 📺 Live coding and gaming on [Twitch](https://twitch.tv/c_threep0)
