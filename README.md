@@ -4,8 +4,8 @@
 
   ## Software Engineer | Biblical Programmer | Content Creator | Gamer
   
-  [![Twitch Status](https://img.shields.io/twitch/status/c_threep0?style=for-the-badge&logo=twitch&color=9146FF)](https://twitch.tv/YourTwitchUsername)
-  [![GitHub followers](https://img.shields.io/github/followers/cthart14?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
+  [![Twitch Status](https://img.shields.io/twitch/status/c_threep0?style=for-the-badge&logo=twitch&color=9146FF)](https://twitch.tv/c_threep0)
+  [![GitHub followers](https://img.shields.io/github/followers/cthart14?style=for-the-badge&logo=github)](https://github.com/cthart14)
   <!--[![Twitter Follow](https://img.shields.io/twitch/follow/YourTwitterUsername?style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/YourTwitterUsername) -->
   
 </div>
@@ -34,6 +34,15 @@ const chris = {
   }
 };
 ```
+
+## 🗃️  Check Out My Projects 
+
+- [_"Jesus Freaks"_](https://github.com/cthart14/Jesus_Freaks_Public)
+- [_"Taskmaster"_](https://github.com/cthart14/Taskmaster)
+
+
+
+
 
 <!-- ## 📊 GitHub Stats
 
