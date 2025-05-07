@@ -37,8 +37,8 @@ const chris = {
 
 ## 🗃️  Check Out My Projects 
 
-- [_"Jesus Freaks"_](https://github.com/cthart14/Jesus-Freaks_Public)
-- [_"Taskmaster"_](https://github.com/cthart14/Taskmaster)
+- [_"Jesus Freaks"_](https://github.com/cthart14/Jesus-Freaks_Public) ✝️ - Christ centered social media app
+- [_"Taskmaster"_](https://github.com/cthart14/Taskmaster) 📝 - Organizable logger for spontaneous ideas & to-dos
 
 
 
