@@ -37,7 +37,7 @@ const chris = {
 
 ## 🗃️  Check Out My Projects 
 
-- [_"Jesus Freaks"_](https://github.com/cthart14/Jesus_Freaks_Public)
+- [_"Jesus Freaks"_](https://github.com/cthart14/Jesus-Freaks_Public)
 - [_"Taskmaster"_](https://github.com/cthart14/Taskmaster)
 
 
