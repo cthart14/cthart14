@@ -37,8 +37,10 @@ const chris = {
 
 ## 🗃️  Check Out My Projects 
 
-- [_"Jesus Freaks"_](https://github.com/cthart14/Jesus-Freaks_Public) ✝️ - Christ centered social media app
+- [_"Jesus Freaks"_](https://github.com/cthart14/Jesus-Freaks) ✝️ - Christ centered social media app
 - [_"Taskmaster"_](https://github.com/cthart14/Taskmaster) 📝 - Organizable logger for spontaneous ideas & to-dos
+- [_"PS5-Deal-Locator"_](https://github.com/cthart14/PS5-Deal-Locator) 💰 - Web scraper that compares PS5 prices over multiple sites
+
 
 
 
