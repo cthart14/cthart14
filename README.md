@@ -56,8 +56,8 @@ const chris = {
 ## 🎮 Gaming Life
 
 When I'm not pushing commits, you can find me:
+- 📖 Reading my Bible
 - 🎮 Streaming on [Twitch](https://twitch.tv/c_threep0)
-- 🏀 Playing _Basketball, Football_
 - 🕹️ Enjoying _Rivals, 2k, Rainbow 6_
 
 <!--## 📺 Recent Streams-->
@@ -69,7 +69,6 @@ When I'm not pushing commits, you can find me:
 ## 🔄 Biblical Programming
 
 My approach to programming combines technical excellence with biblical principles. I want to use what God has given me to glorify Him and create a space for the Christian community in a technical realm:
-
 
 
 ## 📫 Connect With Me
